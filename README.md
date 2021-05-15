@@ -27,7 +27,7 @@ A point based Incentivized Tech Bin will have the facility to generate rewards f
 #### The Portal:
   (techbin.ml) shows the leaderboard of all the users of certain organization or city the bin is configured for and shows near real-time leaderboards. The portal also allows for Login and registration. Once registered user if eligible for Participating. And Login allows user to claim whatever the rewards are awarded (if any) to them.
 
-**How to Install**** :**
+### How to Install : 
 
 ```
 
