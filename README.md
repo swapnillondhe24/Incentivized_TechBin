@@ -57,7 +57,7 @@ git clone https://github.com/swapnillondhe24/Incentivized_TechBin
 
 >Calibrate the HX711 [Reference Here](https://github.com/tatobari/hx711py) and update referenceValue in code
 
->Host Poratal
+>Host Portal
 
 >Register users.
 
